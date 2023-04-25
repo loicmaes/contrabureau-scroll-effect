@@ -1,0 +1,20 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font: inherit;
+  outline: none;
+  background: none;
+  color: currentColor;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/*# sourceMappingURL=normalize.css.map */
